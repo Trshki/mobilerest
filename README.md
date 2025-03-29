@@ -1,3 +1,44 @@
+# Notre Application Web Mobile-First
+
+Ce projet est développé en suivant une approche agile, avec des itérations courtes et fréquentes.
+
+## Technologies utilisées
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## Structure du projet
+
+```
+/
+├── src/
+│   ├── app/          # Pages et routes de l'application
+│   ├── components/   # Composants réutilisables
+│   └── styles/       # Styles globaux
+```
+
+## Installation
+
+```bash
+npm install
+```
+
+## Démarrage du serveur de développement
+
+```bash
+npm run dev
+```
+
+L'application sera accessible à l'adresse [http://localhost:3000](http://localhost:3000)
+
+## Itérations
+
+### Itération 1 (En cours)
+- Mise en place de l'infrastructure de base
+- Création de la page d'accueil
+- Configuration du projet Next.js
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
